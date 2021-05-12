@@ -1,7 +1,7 @@
 import socket
 
-host = "192.168.209.10" # Change This
-port = 31337 # Change This
+host = "127.0.0.1" # Change This
+port = 1234 # Change This
 
 offset = 146 # Offset value. Change if neccesary
 
